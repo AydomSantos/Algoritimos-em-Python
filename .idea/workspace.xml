@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="adcionando a tarefa quatro">
-      <change afterPath="$PROJECT_DIR$/Aula_1/tarefa_cinco.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_1/tarefa_seis.py" afterDir="false" />
+    <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="ok">
+      <change afterPath="$PROJECT_DIR$/Aula_1/tarefa_nove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_1/tarefa_oito.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.tarefa_cinco.executor": "Run",
+    "Python.tarefa_nove.executor": "Run",
+    "Python.tarefa_oito.executor": "Run",
     "Python.tarefa_quatro.executor": "Run",
+    "Python.tarefa_seis.executor": "Run",
+    "Python.tarefa_sete.executor": "Run",
     "Python.tarefa_tres.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Area-de-Desenvolvimento",
@@ -75,11 +80,20 @@
       <option name="project" value="LOCAL" />
       <updated>1743554772604</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adcionando a tarefas">
+      <option name="closed" value="true" />
+      <created>1743639226632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743639226632</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adcionando a tarefa quatro" />
-    <option name="LAST_COMMIT_MESSAGE" value="adcionando a tarefa quatro" />
+    <MESSAGE value="adcionando a tarefas" />
+    <option name="LAST_COMMIT_MESSAGE" value="adcionando a tarefas" />
   </component>
 </project>
