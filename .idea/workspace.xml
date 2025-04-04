@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="ok">
-      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/explicacao.py" afterDir="false" />
+    <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="adcionando um exemplo sobre estrutura condicional">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Area-de-Desenvolvimento" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,7 +52,7 @@
     "Python.tarefa_sete.executor": "Run",
     "Python.tarefa_tres.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Area-de-Desenvolvimento",
+    "git-widget-placeholder": "estrutura-de-desicao",
     "last_opened_file_path": "C:/Users/Tecnico/Desktop/Algoritimos-em-Python"
   }
 }]]></component>
@@ -97,13 +96,22 @@
       <option name="project" value="LOCAL" />
       <updated>1743722763437</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adcionando um exemplo sobre estrutura condicional">
+      <option name="closed" value="true" />
+      <created>1743726585914</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743726585914</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adcionando a tarefa quatro" />
     <MESSAGE value="adcionando a tarefas" />
     <MESSAGE value="ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+    <MESSAGE value="adcionando um exemplo sobre estrutura condicional" />
+    <option name="LAST_COMMIT_MESSAGE" value="adcionando um exemplo sobre estrutura condicional" />
   </component>
 </project>
