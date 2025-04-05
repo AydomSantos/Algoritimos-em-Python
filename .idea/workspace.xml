@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="adcionando um exemplo sobre estrutura condicional">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="exemplo de if / esle / elif">
+      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/exe_um.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.exe_um.executor": "Run",
     "Python.explicacao.executor": "Run",
     "Python.tarefa_cinco.executor": "Run",
     "Python.tarefa_dez.executor": "Run",
@@ -51,6 +52,7 @@
     "Python.tarefa_seis.executor": "Run",
     "Python.tarefa_sete.executor": "Run",
     "Python.tarefa_tres.executor": "Run",
+    "Python.tarefa_um_exemplo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "estrutura-de-desicao",
     "last_opened_file_path": "C:/Users/Tecnico/Desktop/Algoritimos-em-Python"
@@ -104,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743726585914</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="exemplo de if / esle / elif">
+      <option name="closed" value="true" />
+      <created>1743808336655</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743808336655</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -112,6 +122,7 @@
     <MESSAGE value="adcionando a tarefas" />
     <MESSAGE value="ok" />
     <MESSAGE value="adcionando um exemplo sobre estrutura condicional" />
-    <option name="LAST_COMMIT_MESSAGE" value="adcionando um exemplo sobre estrutura condicional" />
+    <MESSAGE value="exemplo de if / esle / elif" />
+    <option name="LAST_COMMIT_MESSAGE" value="exemplo de if / esle / elif" />
   </component>
 </project>
