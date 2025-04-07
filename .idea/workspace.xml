@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="exemplo de if / esle / elif">
-      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/exe_um.py" afterDir="false" />
+    <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="terceiro exercicio">
+      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/exe_quatro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/exe_quinto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.exe_dois.executor": "Run",
+    "Python.exe_quatro.executor": "Run",
+    "Python.exe_quinto.executor": "Run",
+    "Python.exe_tres.executor": "Run",
     "Python.exe_um.executor": "Run",
     "Python.explicacao.executor": "Run",
     "Python.tarefa_cinco.executor": "Run",
@@ -114,7 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743808336655</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="segundo exercicio">
+      <option name="closed" value="true" />
+      <created>1743811403664</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743811403664</updated>
+    </task>
+    <task id="LOCAL-00007" summary="terceiro exercicio">
+      <option name="closed" value="true" />
+      <created>1743812790375</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743812790375</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +145,8 @@
     <MESSAGE value="ok" />
     <MESSAGE value="adcionando um exemplo sobre estrutura condicional" />
     <MESSAGE value="exemplo de if / esle / elif" />
-    <option name="LAST_COMMIT_MESSAGE" value="exemplo de if / esle / elif" />
+    <MESSAGE value="segundo exercicio" />
+    <MESSAGE value="terceiro exercicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="terceiro exercicio" />
   </component>
 </project>
