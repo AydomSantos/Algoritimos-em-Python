@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="terceiro exercicio">
-      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/exe_quatro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/exe_quinto.py" afterDir="false" />
+    <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="atualizando os exercicios">
+      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/exe_setimo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/exe_sexto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,8 @@
     "Python.exe_dois.executor": "Run",
     "Python.exe_quatro.executor": "Run",
     "Python.exe_quinto.executor": "Run",
+    "Python.exe_setimo.executor": "Run",
+    "Python.exe_sexto.executor": "Run",
     "Python.exe_tres.executor": "Run",
     "Python.exe_um.executor": "Run",
     "Python.explicacao.executor": "Run",
@@ -136,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743812790375</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="atualizando os exercicios">
+      <option name="closed" value="true" />
+      <created>1744068382225</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744068382225</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -147,6 +157,7 @@
     <MESSAGE value="exemplo de if / esle / elif" />
     <MESSAGE value="segundo exercicio" />
     <MESSAGE value="terceiro exercicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="terceiro exercicio" />
+    <MESSAGE value="atualizando os exercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizando os exercicios" />
   </component>
 </project>
