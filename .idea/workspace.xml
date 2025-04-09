@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="atualizando os exercicios">
-      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/exe_setimo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/exe_sexto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/exe_decimo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/exe_nono.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estrutura_de_decisao/exe_oitavo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.exe_decimo.executor": "Run",
     "Python.exe_dois.executor": "Run",
+    "Python.exe_nono.executor": "Run",
+    "Python.exe_oitavo.executor": "Run",
     "Python.exe_quatro.executor": "Run",
     "Python.exe_quinto.executor": "Run",
     "Python.exe_setimo.executor": "Run",
@@ -146,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744068382225</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="atualizando os exercicios">
+      <option name="closed" value="true" />
+      <created>1744072597581</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744072597581</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
