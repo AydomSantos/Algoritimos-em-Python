@@ -1,5 +1,5 @@
 
-vHorario = input("Digite o seu Orario M | V | N: ").lower()
+vHorario = input("Digite o seu Orario M | V | N: ").upper()
 if vHorario == 'm':
     print("Bom dia")
 elif vHorario == 'v':
