@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="ok">
-      <change afterPath="$PROJECT_DIR$/Aula_1/tarefa_nove.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_1/tarefa_oito.py" afterDir="false" />
+    <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="Inicio dos exercicios">
+      <change afterPath="$PROJECT_DIR$/estrutura_de_arrays/exe_dois.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estrutura_de_arrays/exe_tres.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_arrays/exe_um.py" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_arrays/exe_um.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="estrutura-de-repeticao" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,15 +45,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.exe_decPrimeiro.executor": "Run",
+    "Python.exe_decimo.executor": "Run",
+    "Python.exe_dois.executor": "Run",
+    "Python.exe_nono.executor": "Run",
+    "Python.exe_oitavo.executor": "Run",
+    "Python.exe_quatro.executor": "Run",
+    "Python.exe_quinto.executor": "Run",
+    "Python.exe_setimo.executor": "Run",
+    "Python.exe_sexto.executor": "Run",
+    "Python.exe_tres.executor": "Run",
+    "Python.exe_um.executor": "Run",
+    "Python.explicacao.executor": "Run",
     "Python.tarefa_cinco.executor": "Run",
+    "Python.tarefa_dez.executor": "Run",
     "Python.tarefa_nove.executor": "Run",
     "Python.tarefa_oito.executor": "Run",
     "Python.tarefa_quatro.executor": "Run",
     "Python.tarefa_seis.executor": "Run",
     "Python.tarefa_sete.executor": "Run",
     "Python.tarefa_tres.executor": "Run",
+    "Python.tarefa_um_exemplo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Area-de-Desenvolvimento",
+    "git-widget-placeholder": "estrutura-de-arrays",
     "last_opened_file_path": "C:/Users/Tecnico/Desktop/Algoritimos-em-Python"
   }
 }]]></component>
@@ -88,12 +103,124 @@
       <option name="project" value="LOCAL" />
       <updated>1743639226632</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ok">
+      <option name="closed" value="true" />
+      <created>1743722763437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743722763437</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adcionando um exemplo sobre estrutura condicional">
+      <option name="closed" value="true" />
+      <created>1743726585914</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743726585914</updated>
+    </task>
+    <task id="LOCAL-00005" summary="exemplo de if / esle / elif">
+      <option name="closed" value="true" />
+      <created>1743808336655</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743808336655</updated>
+    </task>
+    <task id="LOCAL-00006" summary="segundo exercicio">
+      <option name="closed" value="true" />
+      <created>1743811403664</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743811403664</updated>
+    </task>
+    <task id="LOCAL-00007" summary="terceiro exercicio">
+      <option name="closed" value="true" />
+      <created>1743812790375</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743812790375</updated>
+    </task>
+    <task id="LOCAL-00008" summary="atualizando os exercicios">
+      <option name="closed" value="true" />
+      <created>1744068382225</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744068382225</updated>
+    </task>
+    <task id="LOCAL-00009" summary="atualizando os exercicios">
+      <option name="closed" value="true" />
+      <created>1744072597581</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744072597581</updated>
+    </task>
+    <task id="LOCAL-00010" summary="atualizando os exercicios">
+      <option name="closed" value="true" />
+      <created>1744159370577</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744159370577</updated>
+    </task>
+    <task id="LOCAL-00011" summary="atualizando os exercicios">
+      <option name="closed" value="true" />
+      <created>1744237123306</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1744237123306</updated>
+    </task>
+    <task id="LOCAL-00012" summary="atualizando os exercicios">
+      <option name="closed" value="true" />
+      <created>1744238469459</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1744238469459</updated>
+    </task>
+    <task id="LOCAL-00013" summary="teste">
+      <option name="closed" value="true" />
+      <created>1744238593355</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1744238593355</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Inicio dos exercicios">
+      <option name="closed" value="true" />
+      <created>1744245842714</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1744245842714</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Inicio dos exercicios">
+      <option name="closed" value="true" />
+      <created>1744409730016</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1744409730016</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adcionando a tarefa quatro" />
     <MESSAGE value="adcionando a tarefas" />
-    <option name="LAST_COMMIT_MESSAGE" value="adcionando a tarefas" />
+    <MESSAGE value="ok" />
+    <MESSAGE value="adcionando um exemplo sobre estrutura condicional" />
+    <MESSAGE value="exemplo de if / esle / elif" />
+    <MESSAGE value="segundo exercicio" />
+    <MESSAGE value="terceiro exercicio" />
+    <MESSAGE value="atualizando os exercicios" />
+    <MESSAGE value="teste" />
+    <MESSAGE value="Inicio dos exercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicio dos exercicios" />
   </component>
 </project>
