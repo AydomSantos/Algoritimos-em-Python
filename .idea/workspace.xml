@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61ad56c3-39b7-42ec-8cdf-43b458f129c4" name="Changes" comment="Inicio dos exercicios">
+      <change afterPath="$PROJECT_DIR$/estrutura_de_arrays/exe_dois.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estrutura_de_arrays/exe_tres.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura_de_arrays/exe_um.py" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_de_arrays/exe_um.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="estrutura-de-desicao" />
+        <entry key="$PROJECT_DIR$" value="estrutura-de-repeticao" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,7 +67,7 @@
     "Python.tarefa_tres.executor": "Run",
     "Python.tarefa_um_exemplo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "estrutura-de-repeticao",
+    "git-widget-placeholder": "estrutura-de-arrays",
     "last_opened_file_path": "C:/Users/Tecnico/Desktop/Algoritimos-em-Python"
   }
 }]]></component>
@@ -196,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744245842714</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Inicio dos exercicios">
+      <option name="closed" value="true" />
+      <created>1744409730016</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1744409730016</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
