@@ -1,3 +1,5 @@
+from datetime import datetime
+
 """
 Conta Bancaria Class
 """
@@ -83,7 +85,6 @@ class ContaPoupanca(ContaBancaria):
 """
 Class Cliente
 """
-
 class Cliente:
     def __init__(self, pNome, pCpf):
         self.pNome = pNome
@@ -91,7 +92,7 @@ class Cliente:
         self.contas = []
         print(f"Cliente {self.pNome} (CPF: {self.pCpf}) cadastrado.")
 
-    def adcionar_conta(self, pConta):
+    def adicionar_conta(self, pConta): # Corrigi o nome do método para adicionar_conta
         if isinstance(pConta, ContaBancaria):
            self.contas.append(pConta)
            print(f"Conta adicionada para o cliente {self.pNome}.")
@@ -109,4 +110,54 @@ class Cliente:
                 if isinstance(conta, ContaCorrente):
                     print(f"Tipo: Conta Corrente")
                     print(f"Limite Cheque Especial: R$ {conta.pLimite_cheque_especial:.2f}")
+                elif isinstance(conta, ContaPoupanca):
+                    print(f"Tipo: Conta Poupança")
+                    print(f"Taxa de Juros: {conta.pTaxa_juros * 100:.2f}% ao mês")
+                else:
+                    print(f"Tipo: Conta Bancária (Genérica)")
+                print(f"Saldo: R$ {conta.saldo:.2f}")
+
+"""
+Classe Banco
+"""
+class Banco:
+    def __init__(self, nome):
+        self.nome = nome
+        self.clientes = {}
+        print(f"Banco {self.nome} criado.")
+
+    def adicionar_cliente(self, cliente):
+        if cliente.pCpf not in self.clientes:
+            self.clientes[cliente.pCpf] = cliente
+            print(f"Cliente {cliente.pNome} adicionado ao {self.nome}.")
+        else:
+            print(f"Cliente com CPF {cliente.pCpf} já cadastrado no {self.nome}.")
+
+    def remover_cliente(self, cpf):
+        if cpf in self.clientes:
+            del self.clientes[cpf]
+            print(f"Cliente com CPF {cpf} removido do {self.nome}.")
+        else:
+            print(f"Cliente com CPF {cpf} não encontrado no {self.nome}.")
+
+    def listar_clientes(self): # Corrigi o nome do método
+        print(f"\n--- Clientes do Banco {self.nome} ---")
+        if not self.clientes:
+            print("Nenhum cliente cadastrado.")
+        else:
+            for cpf, cliente in self.clientes.items():
+                print(f"Nome: {cliente.pNome}, CPF: {cpf}")
+        print("--- Fim da Lista de Clientes ---")
+
+    def adicionar_conta_cliente(self, cpf, conta): # Corrigi o nome do método
+        if cpf in self.clientes:
+            self.clientes[cpf].adicionar_conta(conta)
+        else:
+            print(f"Cliente com CPF {cpf} não encontrado no {self.nome}.")
+
+    def listar_contas_cliente(self, cpf):
+        if cpf in self.clientes:
+            self.clientes[cpf].listar_contas()
+        else:
+            print(f"Cliente com CPF {cpf} não encontrado no {self.nome}.")
 
